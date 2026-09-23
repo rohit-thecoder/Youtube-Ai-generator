@@ -465,6 +465,4 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 ## 📄 License
 
 This project is intended for educational and personal development purposes.
-#   Y o u t u b e - A i - g e n e r a t o r 
- 
- 
+#
