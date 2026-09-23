@@ -19,7 +19,7 @@ st.set_page_config(
 # CONFIG
 # ============================================================
 
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://youtube-ai-generator.onrender.com/"
 
 
 # ============================================================
@@ -901,7 +901,7 @@ if generate:
             st.error(
                 "Cannot connect to FastAPI. "
                 "Please make sure your backend is running on "
-                "http://127.0.0.1:8000"
+                "https://youtube-ai-generator.onrender.com/"
             )
 
         except requests.exceptions.Timeout:
