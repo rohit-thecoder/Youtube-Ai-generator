@@ -114,7 +114,7 @@ MISTRAL_API_KEY=your_mistral_api_key
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/rohit-thecoder/Youtube-Ai-generator.git
 cd youtube-video-idea-generator
 ```
 
@@ -465,5 +465,6 @@ If you find this project useful, consider giving the repository a ⭐ on GitHub.
 ## 📄 License
 
 This project is intended for educational and personal development purposes.
-#   Y o u t u b e - A i - g e n e r a t o r  
+#   Y o u t u b e - A i - g e n e r a t o r 
+ 
  
