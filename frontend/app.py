@@ -19,7 +19,7 @@ st.set_page_config(
 # CONFIG
 # ============================================================
 
-BACKEND_URL = "https://youtube-ai-generator.onrender.com/"
+BACKEND_URL = "https://youtube-ai-generator.onrender.com"
 
 
 # ============================================================
@@ -551,6 +551,29 @@ div[data-testid="stSelectbox"] > div > div {
         letter-spacing: -1.5px;
     }
 
+}
+div[data-baseweb="select"] > div {
+    background-color: #ffffff !important;
+    color: #222222 !important;
+    border-color: #dcdcdc !important;
+}
+
+div[data-baseweb="select"] span {
+    color: #222222 !important;
+}
+
+div[data-baseweb="popover"] {
+    background-color: #ffffff !important;
+}
+
+div[role="option"] {
+    color: #222222 !important;
+    background-color: #ffffff !important;
+}
+
+div[role="option"]:hover {
+    background-color: #f5f5f5 !important;
+    color: #111111 !important;
 }
 
 </style>
